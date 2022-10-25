@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew Kirkwood"
-title_separator          : ahahsh-"
+title                    : "Andrw Kirkwood"
+title_separator          : 
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Andrew Kirkwood"
 description              : "Andrewkirkwood.me is a collection of the projects and thoughts of me, Andrew Kirkwood."
