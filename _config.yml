@@ -12,11 +12,11 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrw Kirkwood"
+title                    : "Andrew Kirkwood"
 title_separator          : 
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Andrew Kirkwood"
@@ -73,7 +73,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : 
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Kirkwood"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  # bio              : "I am a college senior studing electrical engineering at Clarkson University."
+  avatar           : "/assets/images/profile.png"
+  bio              : "I am a student at Clarkson University studing electrical engineering."
   location         : "New York"
   email            : "andrewkirkwood01@gmail.com"
   links:
@@ -115,7 +115,7 @@ author:
       # url: "andrewkirkwood01@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://andrewkirkwood.me/about/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
