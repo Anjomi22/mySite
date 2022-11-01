@@ -2,15 +2,13 @@
 layout: posts
 title: Audio Effects Using Matlab
 show_date: true
+
 ---
 EE 321 Systems and Signal Processing
 
 
 
-Project 2: Video Processing
 
-Primary Coder: Andrew Kirkwood
-Primary Author: Michael LaDuca
 
 Introduction:
 	 This project was performed using Matlab to study Video Processing. The Matlab code produced manipulates the video files Project2_vid.mp4 and Project2_vid.mp4. The code created measures the average intensity of 3 channels, red, green, and blue. These channels were then plotted against the frame number to get a graph of channel intensity. 

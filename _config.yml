@@ -115,7 +115,7 @@ author:
       # url: "andrewkirkwood01@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://andrewkirkwood.me/about/"
+      # url: "https://andrewkirkwood.me/about/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
