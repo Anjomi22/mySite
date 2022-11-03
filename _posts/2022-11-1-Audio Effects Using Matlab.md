@@ -18,9 +18,14 @@ Video Handling:
 
 Image Handling:
 	We selected frame 60 for image handling, this frame has 109,056 pixels. The video has 3 channels, red, green, and blue. Figure 5 shows the frame selected, frame 60, and Figure 6 shows the Histogram of red intensity across the selected frame. The code for image handling and creating the histogram is shown in figure 2. 
-
+<img src="{{andrewkirkwood.me}}/assets/images/profile.png" alt="">
+<figcaption>My Head.</figcaption>
 Channel Manipulation: 
 	Figure 3 shows the code used to manipulate the different channels, red, green, and blue. The intensity of each channel was measured for each frame and plotted. The graphs showing the intensities can be found in figures 7, 8, and 9. 
+
+<img src="{{andrewkirkwood.me}}/assets/images/profile.png" alt="">
+<figcaption>Also my Head.</figcaption>
+
 
 Longer Video Manipulation:
 	Our second video, Project2_vid.mp4, was 18 seconds long, it has 541 frames and is 400x224 pixels big. Each frame is 89,600 pixels giving a total of 48,473,600 pixels throughout the entire video. The video was then manipulated in the same way as the short video to get the average channel intensity over the entire video. The graphs for red, green, and blue can be found in figures 10,11, and 12. Figure 9 shows a screen capture for frame 200. The code for this section can be found in Figure 4. 
