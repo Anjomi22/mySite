@@ -2,7 +2,7 @@
 layout: posts
 title: Audio Effects Using Matlab
 show_date: true
-
+tag: projects
 ---
 EE 321 Systems and Signal Processing
 
